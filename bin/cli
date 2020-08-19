@@ -1,0 +1,4 @@
+require_relative '../lib/defi'
+
+
+Controller.new.call
